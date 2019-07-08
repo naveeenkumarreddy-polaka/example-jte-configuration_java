@@ -1,7 +1,6 @@
 build()
-sca_sonar()
+sonar()
 unit_test()
-package_artifact()
 upload_artifact()
 deploy()
 tosca_testing()
