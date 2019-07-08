@@ -1,5 +1,5 @@
 build()
-sonar()
+sca_sonar()
 unit_test()
 upload_artifact()
 deploy()
